@@ -4,6 +4,7 @@ import IMG2 from "../../assets/shirt/shirt2.png";
 import IMG3 from "../../assets/shirt/shirt3.png";
 import { FaStar } from "react-icons/fa";
 
+
 const ProductsData = [
   {
     id: 1,
