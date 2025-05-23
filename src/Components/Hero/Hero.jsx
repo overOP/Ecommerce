@@ -29,6 +29,7 @@ const ImageList = [
   },
 ];
 
+//bg using npm package name "react-slick"
 const Hero = ({ handleOrderPopup }) => {
   let settings = {
     dots: false,
